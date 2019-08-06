@@ -1,0 +1,40 @@
+.Addorder {
+  width: 90%;
+  height: 255px;
+  margin: 150px auto;
+  background: gray;
+}
+
+/* Input */
+.ditails {
+  margin: auto;
+  width: 95%;
+}
+.ditails input {
+  width: 50%;
+  margin-bottom: 60px;
+}
+
+.ditails select {
+  width: 35%;
+  padding: 7px;
+margin: 15px;
+
+}
+
+.ditails label {
+margin: 15px;
+}
+
+.sele select {
+  width: 40%;
+  padding: 7px;
+}
+
+.sele label {
+  margin: 15px;
+    margin-bottom: 60px;
+}
+label {
+  color: white;
+}
